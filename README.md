@@ -1,4 +1,4 @@
 
-![Wounded Knee Massacre](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wounded_Knee_aftermath5.jpg/600px-Wounded_Knee_aftermath5.jpg)
+![Robinson projection](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_the_world_by_the_US_Gov_as_of_2016_no_legend.svg/900px-Map_of_the_world_by_the_US_Gov_as_of_2016_no_legend.svg.png)
 
-*[Wounded Knee Massacre](https://wikipedia.org/wiki/File:Wounded_Knee_aftermath5.jpg)*
+*[Robinson projection](https://wikipedia.org/wiki/File:Map_of_the_world_by_the_US_Gov_as_of_2016_no_legend.svg)*
