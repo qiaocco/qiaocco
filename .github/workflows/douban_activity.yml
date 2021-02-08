@@ -16,7 +16,7 @@ jobs:
       - name: Update README.md with douban user's activities
         uses: dongweiming/douban-activity-readme@v1
         with:
-          uid: jason60214
+          uid: 153932994
           max_count: 10
       - name: Commit & Push changes
         uses: actions-js/push@master
