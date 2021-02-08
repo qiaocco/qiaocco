@@ -1,4 +1,4 @@
 
-![Robert Earl Jones](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Robert_Earl_Jones_in_Langston_Hughes%27_Don%27t_You_Want_to_be_Free%3F_%2823_June_1938%3B_photograph_by_Carl_Van_Vechten%29.jpg/450px-Robert_Earl_Jones_in_Langston_Hughes%27_Don%27t_You_Want_to_be_Free%3F_%2823_June_1938%3B_photograph_by_Carl_Van_Vechten%29.jpg)
+![Rudra Mahalaya Temple](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ruins_of_the_Rudra_Mala_at_Siddhpur%2C_Gujarat%2C_retouched.jpg/450px-Ruins_of_the_Rudra_Mala_at_Siddhpur%2C_Gujarat%2C_retouched.jpg)
 
-*[Robert Earl Jones](https://wikipedia.org/wiki/File:Robert_Earl_Jones_in_Langston_Hughes%27_Don%27t_You_Want_to_be_Free%3F_(23_June_1938;_photograph_by_Carl_Van_Vechten).jpg)*
+*[Rudra Mahalaya Temple](https://wikipedia.org/wiki/File:Ruins_of_the_Rudra_Mala_at_Siddhpur,_Gujarat,_retouched.jpg)*
