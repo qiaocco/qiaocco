@@ -1,6 +1,8 @@
 ### 🗣 My activity:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 俗女养成记2 俗女養成記2‎ (2021)](https://www.douban.com/people/153932994/status/3307564452/)
+- [看过 俗女养成记 俗女養成記‎ (2019)](https://www.douban.com/people/153932994/status/3307562705/)
 - [想看 海街日记 海街diary‎ (2015)](https://www.douban.com/people/153932994/status/3305592803/)
 - [想读 A Philosophy of Software Design](https://www.douban.com/people/153932994/status/3297620318/)
 - [看过 人潮汹涌‎ (2021)](https://www.douban.com/people/153932994/status/3297019862/)
@@ -9,6 +11,4 @@
 - [想看 奇妙之城‎ (2021)](https://www.douban.com/people/153932994/status/3278772298/)
 - [想看 一起来看流星雨‎ (2009)](https://www.douban.com/people/153932994/status/3268917473/)
 - [想看 都挺好‎ (2019)](https://www.douban.com/people/153932994/status/3261529993/)
-- [想读 软技能](https://www.douban.com/people/153932994/status/3261360820/)
-- [关注 华语悬疑片榜](https://www.douban.com/people/153932994/status/3258892937/)
 <!-- DOUBAN-ACTIVITIES:END -->
