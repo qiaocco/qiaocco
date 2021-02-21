@@ -1,6 +1,7 @@
 ### 🗣 My activity:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 听说 聽說‎ (2009)](https://www.douban.com/people/153932994/status/3314899577/)
 - [想听 如同宿命反复重演的那一天](https://www.douban.com/people/153932994/status/3309206797/)
 - [想看 小森林 리틀 포레스트‎ (2018)](https://www.douban.com/people/153932994/status/3308398726/)
 - [想看 鬼灭之刃 那田蜘蛛山篇 鬼滅の刃 那田蜘蛛山編‎ (2020)](https://www.douban.com/people/153932994/status/3307782890/)
@@ -10,5 +11,4 @@
 - [想读 A Philosophy of Software Design](https://www.douban.com/people/153932994/status/3297620318/)
 - [看过 人潮汹涌‎ (2021)](https://www.douban.com/people/153932994/status/3297019862/)
 - [想看 我的少女时代 我的少女時代‎ (2015)](https://www.douban.com/people/153932994/status/3280826524/)
-- [想看 森林民宿 ペンションメッツァ‎ (2021)](https://www.douban.com/people/153932994/status/3278952127/)
 <!-- DOUBAN-ACTIVITIES:END -->
