@@ -1,6 +1,7 @@
 ### 🗣 My activity:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想读 原子習慣](https://www.douban.com/people/153932994/status/3429469824/)
 - [看过 听说 聽說‎ (2009)](https://www.douban.com/people/153932994/status/3425741989/)
 - [看过 宝岛一村](https://www.douban.com/people/153932994/status/3404215160/)
 - [想看 平凡岁月的魅力 The Magic of Ordinary Days‎ (2005)](https://www.douban.com/people/153932994/status/3395508497/)
@@ -10,5 +11,4 @@
 - [看过 拆弹专家2‎ (2020)](https://www.douban.com/people/153932994/status/3315516098/)
 - [看过 唐人街探案3‎ (2021)](https://www.douban.com/people/153932994/status/3315515657/)
 - [看过 你好，李焕英‎ (2021)](https://www.douban.com/people/153932994/status/3315515384/)
-- [想看 听说 聽說‎ (2009)](https://www.douban.com/people/153932994/status/3314899577/)
 <!-- DOUBAN-ACTIVITIES:END -->
