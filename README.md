@@ -1,6 +1,7 @@
 ### 🗣 My activity:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 我要我们在一起‎ (2021)](https://www.douban.com/people/153932994/status/3443633630/)
 - [想读 原子習慣](https://www.douban.com/people/153932994/status/3429469824/)
 - [看过 听说 聽說‎ (2009)](https://www.douban.com/people/153932994/status/3425741989/)
 - [看过 宝岛一村](https://www.douban.com/people/153932994/status/3404215160/)
@@ -10,5 +11,4 @@
 - [想看 爱的迫降 사랑의 불시착‎ (2019)](https://www.douban.com/people/153932994/status/3323637455/)
 - [看过 拆弹专家2‎ (2020)](https://www.douban.com/people/153932994/status/3315516098/)
 - [看过 唐人街探案3‎ (2021)](https://www.douban.com/people/153932994/status/3315515657/)
-- [看过 你好，李焕英‎ (2021)](https://www.douban.com/people/153932994/status/3315515384/)
 <!-- DOUBAN-ACTIVITIES:END -->
