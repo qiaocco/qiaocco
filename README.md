@@ -1,6 +1,7 @@
 ### 🗣 My activity:
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 悬崖之上‎ (2021)](https://www.douban.com/people/153932994/status/3488319165/)
 - [看过 热带往事‎ (2021)](https://www.douban.com/people/153932994/status/3480169425/)
 - [在读 SRE](https://www.douban.com/people/153932994/status/3480168757/)
 - [想读 操作系统](https://www.douban.com/people/153932994/status/3477045289/)
@@ -10,5 +11,4 @@
 - [在读 操作系统概念（第七版）](https://www.douban.com/people/153932994/status/3467325635/)
 - [看过 我要我们在一起‎ (2021)](https://www.douban.com/people/153932994/status/3454449218/)
 - [想看 我要我们在一起‎ (2021)](https://www.douban.com/people/153932994/status/3443633630/)
-- [想读 原子習慣](https://www.douban.com/people/153932994/status/3429469824/)
 <!-- DOUBAN-ACTIVITIES:END -->
