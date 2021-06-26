@@ -1,9 +1,10 @@
 # Hi there, I'm qiaocc! 👋
 
-## Intro
+**🖥 Intro**
 - I'm a Devops Engineer 🚀 from Shanghai.
 - Skills: Golang, Python, Devops, K8s
 - Feel free to contact me via qiaocco@gmail.com
+- My favorite city is Amoy.
 
 **📝 Blog posts:**
 
@@ -12,7 +13,7 @@
 <!-- BLOG-POST-LIST:END -->
 More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 
-### ✨ 豆瓣:
+**✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
 - [看过 悬崖之上‎ (2021)](https://www.douban.com/people/153932994/status/3488319165/)
