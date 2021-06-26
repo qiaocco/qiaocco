@@ -1,7 +1,5 @@
 # Hi there, I'm qiaocc! 👋
 
-Hi, I'm qiaocc, 
-
 ## Intro
 - I'm a Devops Engineer 🚀 from Shanghai.
 - Skills: Golang, Python, Devops, K8s
