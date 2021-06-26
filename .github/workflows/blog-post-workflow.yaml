@@ -4,6 +4,9 @@ on:
     # Runs every 2 hour
     - cron: "0 */2 * * *"
 
+  issue_comment:
+    types: [ created, edited ]
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
