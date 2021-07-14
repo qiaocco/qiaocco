@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 爱的面包魂 愛的麵包魂‎ (2012)](https://www.douban.com/people/153932994/status/3514086819/)
 - [看过 悬崖之上‎ (2021)](https://www.douban.com/people/153932994/status/3488319165/)
 - [看过 热带往事‎ (2021)](https://www.douban.com/people/153932994/status/3480169425/)
 - [在读 SRE](https://www.douban.com/people/153932994/status/3480168757/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 当男人恋爱时 當男人戀愛時‎ (2021)](https://www.douban.com/people/153932994/status/3469074369/)
 - [在读 操作系统概念（第七版）](https://www.douban.com/people/153932994/status/3467325635/)
 - [看过 我要我们在一起‎ (2021)](https://www.douban.com/people/153932994/status/3454449218/)
-- [想看 我要我们在一起‎ (2021)](https://www.douban.com/people/153932994/status/3443633630/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
