@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 小狗当家 Ёлки лохматые‎ (2015)](https://www.douban.com/people/153932994/status/3519936997/)
 - [想看 相对宇宙 第一季 Counterpart Season 1‎ (2017)](https://www.douban.com/people/153932994/status/3516434716/)
 - [想看 爱的面包魂 愛的麵包魂‎ (2012)](https://www.douban.com/people/153932994/status/3514086819/)
 - [看过 悬崖之上‎ (2021)](https://www.douban.com/people/153932994/status/3488319165/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 逃避虽可耻但有用 逃げるは恥だが役に立つ‎ (2016)](https://www.douban.com/people/153932994/status/3475700612/)
 - [看过 当男人恋爱时 當男人戀愛時‎ (2021)](https://www.douban.com/people/153932994/status/3475484601/)
 - [想看 当男人恋爱时 當男人戀愛時‎ (2021)](https://www.douban.com/people/153932994/status/3469074369/)
-- [在读 操作系统概念（第七版）](https://www.douban.com/people/153932994/status/3467325635/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
