@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 海街日记 海街diary‎ (2015)](https://www.douban.com/people/153932994/status/3526153605/)
 - [收藏 【已转勿扰】五角场三门路单间转租(B站，财大，国正中心)](https://www.douban.com/people/153932994/status/3522866395/)
 - [想看 小狗当家 Ёлки лохматые‎ (2015)](https://www.douban.com/people/153932994/status/3519936997/)
 - [想看 相对宇宙 第一季 Counterpart Season 1‎ (2017)](https://www.douban.com/people/153932994/status/3516434716/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [在读 SRE](https://www.douban.com/people/153932994/status/3480168757/)
 - [想读 操作系统](https://www.douban.com/people/153932994/status/3477045289/)
 - [想看 逃避虽可耻但有用 逃げるは恥だが役に立つ‎ (2016)](https://www.douban.com/people/153932994/status/3475700612/)
-- [看过 当男人恋爱时 當男人戀愛時‎ (2021)](https://www.douban.com/people/153932994/status/3475484601/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
