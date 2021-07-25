@@ -32,6 +32,9 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 真爱至上 Love Actually‎ (2003)](https://www.douban.com/people/153932994/status/3526854031/)
+- [看过 鬼灭之刃 鬼滅の刃‎ (2019)](https://www.douban.com/people/153932994/status/3526853352/)
+- [看过 左耳‎ (2015)](https://www.douban.com/people/153932994/status/3526853059/)
 - [看过 海街日记 海街diary‎ (2015)](https://www.douban.com/people/153932994/status/3526153605/)
 - [收藏 【已转勿扰】五角场三门路单间转租(B站，财大，国正中心)](https://www.douban.com/people/153932994/status/3522866395/)
 - [想看 小狗当家 Ёлки лохматые‎ (2015)](https://www.douban.com/people/153932994/status/3519936997/)
@@ -39,9 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 爱的面包魂 愛的麵包魂‎ (2012)](https://www.douban.com/people/153932994/status/3514086819/)
 - [看过 悬崖之上‎ (2021)](https://www.douban.com/people/153932994/status/3488319165/)
 - [看过 热带往事‎ (2021)](https://www.douban.com/people/153932994/status/3480169425/)
-- [在读 SRE](https://www.douban.com/people/153932994/status/3480168757/)
-- [想读 操作系统](https://www.douban.com/people/153932994/status/3477045289/)
-- [想看 逃避虽可耻但有用 逃げるは恥だが役に立つ‎ (2016)](https://www.douban.com/people/153932994/status/3475700612/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
