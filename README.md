@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想读 刺桐梦华录](https://www.douban.com/people/153932994/status/3527899979/)
 - [看过 真爱至上 Love Actually‎ (2003)](https://www.douban.com/people/153932994/status/3526854031/)
 - [看过 鬼灭之刃 鬼滅の刃‎ (2019)](https://www.douban.com/people/153932994/status/3526853352/)
 - [看过 左耳‎ (2015)](https://www.douban.com/people/153932994/status/3526853059/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 相对宇宙 第一季 Counterpart Season 1‎ (2017)](https://www.douban.com/people/153932994/status/3516434716/)
 - [想看 爱的面包魂 愛的麵包魂‎ (2012)](https://www.douban.com/people/153932994/status/3514086819/)
 - [看过 悬崖之上‎ (2021)](https://www.douban.com/people/153932994/status/3488319165/)
-- [看过 热带往事‎ (2021)](https://www.douban.com/people/153932994/status/3480169425/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
