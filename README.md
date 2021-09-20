@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 俗女养成记2 俗女養成記2‎ (2021)](https://www.douban.com/people/153932994/status/3593445109/)
 - [看过 失控玩家 Free Guy‎ (2021)](https://www.douban.com/people/153932994/status/3583567122/)
 - [想看 摩登情爱 第一季 Modern Love Season 1‎ (2019)](https://www.douban.com/people/153932994/status/3583532124/)
 - [想看 盛夏光年‎ (2006)](https://www.douban.com/people/153932994/status/3569568982/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [看过 真爱至上 Love Actually‎ (2003)](https://www.douban.com/people/153932994/status/3526854031/)
 - [看过 鬼灭之刃 鬼滅の刃‎ (2019)](https://www.douban.com/people/153932994/status/3526853352/)
 - [看过 左耳‎ (2015)](https://www.douban.com/people/153932994/status/3526853059/)
-- [看过 海街日记 海街diary‎ (2015)](https://www.douban.com/people/153932994/status/3526153605/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
