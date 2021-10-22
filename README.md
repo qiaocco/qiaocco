@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [收藏 转租｜三门路 五角场 国政中心 尚浦 b站 字节](https://www.douban.com/people/153932994/status/3628096673/)
 - [看过 八月照相馆 8월의 크리스마스‎ (1998)](https://www.douban.com/people/153932994/status/3622804669/)
 - [想看 谁先爱上他的 誰先愛上他的‎ (2018)](https://www.douban.com/people/153932994/status/3617340114/)
 - [想看 艋舺‎ (2010)](https://www.douban.com/people/153932994/status/3616076836/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [看过 失控玩家 Free Guy‎ (2021)](https://www.douban.com/people/153932994/status/3583567122/)
 - [想看 摩登情爱 第一季 Modern Love Season 1‎ (2019)](https://www.douban.com/people/153932994/status/3583532124/)
 - [想看 盛夏光年‎ (2006)](https://www.douban.com/people/153932994/status/3569568982/)
-- [想看 花束般的恋爱 花束みたいな恋をした‎ (2021)](https://www.douban.com/people/153932994/status/3569567750/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
