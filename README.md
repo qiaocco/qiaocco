@@ -32,6 +32,9 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 沙丘 Dune‎ (2021)](https://www.douban.com/people/153932994/status/3653515386/)
+- [看过 梅艳芳 梅艷芳‎ (2021)](https://www.douban.com/people/153932994/status/3653515004/)
+- [看过 扬名立万‎ (2021)](https://www.douban.com/people/153932994/status/3653514865/)
 - [收藏 吉浦路395弄 朝南2700每月 紧靠复旦财大 公交直达五角场商圈 还有更多房源可➕v](https://www.douban.com/people/153932994/status/3634429869/)
 - [收藏 转租｜三门路 五角场 国政中心 尚浦 b站 字节](https://www.douban.com/people/153932994/status/3628096673/)
 - [看过 八月照相馆 8월의 크리스마스‎ (1998)](https://www.douban.com/people/153932994/status/3622804669/)
@@ -39,9 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 艋舺‎ (2010)](https://www.douban.com/people/153932994/status/3616076836/)
 - [想看 谁是被害者 第一季 誰是被害者 第一季‎ (2020)](https://www.douban.com/people/153932994/status/3600101053/)
 - [想看 穿越时空的少女 時をかける少女‎ (2006)](https://www.douban.com/people/153932994/status/3597610279/)
-- [看过 俗女养成记2 俗女養成記2‎ (2021)](https://www.douban.com/people/153932994/status/3593445109/)
-- [看过 失控玩家 Free Guy‎ (2021)](https://www.douban.com/people/153932994/status/3583567122/)
-- [想看 摩登情爱 第一季 Modern Love Season 1‎ (2019)](https://www.douban.com/people/153932994/status/3583532124/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
