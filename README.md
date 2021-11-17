@@ -36,7 +36,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [看过 梅艳芳 梅艷芳‎ (2021)](https://www.douban.com/people/153932994/status/3653515004/)
 - [看过 扬名立万‎ (2021)](https://www.douban.com/people/153932994/status/3653514865/)
 - [收藏 吉浦路395弄 朝南2700每月 紧靠复旦财大 公交直达五角场商圈 还有更多房源可➕v](https://www.douban.com/people/153932994/status/3634429869/)
-- [收藏 转租｜三门路 五角场 国政中心 尚浦 b站 字节](https://www.douban.com/people/153932994/status/3628096673/)
+- [收藏 ](https://www.douban.com/people/153932994/status/3628096673/)
 - [看过 八月照相馆 8월의 크리스마스‎ (1998)](https://www.douban.com/people/153932994/status/3622804669/)
 - [想看 谁先爱上他的 誰先愛上他的‎ (2018)](https://www.douban.com/people/153932994/status/3617340114/)
 - [想看 艋舺‎ (2010)](https://www.douban.com/people/153932994/status/3616076836/)
