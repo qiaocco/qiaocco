@@ -1,8 +1,8 @@
 name: Latest douban activities workflow
 on:
   schedule:
-    # Runs every 2 hour
-    - cron: "0 */2 * * *"
+    # Runs at 3:10 every day
+    - cron: "10 3 * * *"
 
   issue_comment:
     types: [created, edited]
