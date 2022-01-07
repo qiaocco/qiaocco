@@ -32,16 +32,16 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 爱情神话‎ (2021)](https://www.douban.com/people/153932994/status/3709019366/?_i=41439753)
-- [看过 恋恋风尘 戀戀風塵‎ (1986)](https://www.douban.com/people/153932994/status/3694021874/?_i=41439754)
-- [关注 台湾](https://www.douban.com/people/153932994/status/3692840399/?_i=41439754)
-- [看过 门锁‎ (2021)](https://www.douban.com/people/153932994/status/3684269918/?_i=41439754)
-- [看过 哦！文姬 오! 문희‎ (2020)](https://www.douban.com/people/153932994/status/3684269629/?_i=41439754)
-- [想看 哦！文姬 오! 문희‎ (2020)](https://www.douban.com/people/153932994/status/3684269509/?_i=41439754)
-- [看过 孤味‎ (2020)](https://www.douban.com/people/153932994/status/3681460717/?_i=41439754)
-- [看过 谁是被害者 第一季 誰是被害者 第一季‎ (2020)](https://www.douban.com/people/153932994/status/3667090189/?_i=41439754)
-- [看过 艋舺‎ (2010)](https://www.douban.com/people/153932994/status/3667007509/?_i=41439754)
-- [看过 沙丘 Dune‎ (2021)](https://www.douban.com/people/153932994/status/3653515386/?_i=41439754)
+- [看过 爱情神话‎ (2021)](https://www.douban.com/people/153932994/status/3709019366/?_i=41526170)
+- [看过 恋恋风尘 戀戀風塵‎ (1986)](https://www.douban.com/people/153932994/status/3694021874/?_i=41526170)
+- [关注 台湾](https://www.douban.com/people/153932994/status/3692840399/?_i=41526170)
+- [看过 门锁‎ (2021)](https://www.douban.com/people/153932994/status/3684269918/?_i=41526170)
+- [看过 哦！文姬 오! 문희‎ (2020)](https://www.douban.com/people/153932994/status/3684269629/?_i=41526170)
+- [想看 哦！文姬 오! 문희‎ (2020)](https://www.douban.com/people/153932994/status/3684269509/?_i=41526170)
+- [看过 孤味‎ (2020)](https://www.douban.com/people/153932994/status/3681460717/?_i=41526170)
+- [看过 谁是被害者 第一季 誰是被害者 第一季‎ (2020)](https://www.douban.com/people/153932994/status/3667090189/?_i=41526170)
+- [看过 艋舺‎ (2010)](https://www.douban.com/people/153932994/status/3667007509/?_i=41526170)
+- [看过 沙丘 Dune‎ (2021)](https://www.douban.com/people/153932994/status/3653515386/?_i=41526170)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
