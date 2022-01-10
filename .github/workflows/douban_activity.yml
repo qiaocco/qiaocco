@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Update README.md with douban user's activities
-        uses: dongweiming/douban-activity-readme@v1
+        uses: dongweiming/douban-activity-readme@v3
         with:
           uid: 153932994
           max_count: 10
