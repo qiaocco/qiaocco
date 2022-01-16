@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 我的少女时代 我的少女時代‎ (2015)](https://www.douban.com/people/153932994/status/3725684377/)
 - [看过 消失的情人节 消失的情人節‎ (2020)](https://www.douban.com/people/153932994/status/3724501735/)
 - [看过 爱情神话‎ (2021)](https://www.douban.com/people/153932994/status/3709019366/)
 - [看过 恋恋风尘 戀戀風塵‎ (1986)](https://www.douban.com/people/153932994/status/3694021874/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 哦！文姬 오! 문희‎ (2020)](https://www.douban.com/people/153932994/status/3684269509/)
 - [看过 孤味‎ (2020)](https://www.douban.com/people/153932994/status/3681460717/)
 - [看过 谁是被害者 第一季 誰是被害者 第一季‎ (2020)](https://www.douban.com/people/153932994/status/3667090189/)
-- [看过 艋舺‎ (2010)](https://www.douban.com/people/153932994/status/3667007509/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
