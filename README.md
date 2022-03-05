@@ -32,6 +32,8 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 少年吔，安啦！‎ (1992)](https://www.douban.com/people/153932994/status/3785503294/)
+- [看过 瀑布‎ (2021)](https://www.douban.com/people/153932994/status/3785443663/)
 - [想看 瀑布‎ (2021)](https://www.douban.com/people/153932994/status/3778053408/)
 - [想看 运转手之恋 運転手之恋‎ (2000)](https://www.douban.com/people/153932994/status/3743750732/)
 - [想看 人际关系事务所 人際關係事務所‎ (2018)](https://www.douban.com/people/153932994/status/3734499537/)
@@ -40,8 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [看过 消失的情人节 消失的情人節‎ (2020)](https://www.douban.com/people/153932994/status/3724501735/)
 - [看过 爱情神话‎ (2021)](https://www.douban.com/people/153932994/status/3709019366/)
 - [看过 恋恋风尘 戀戀風塵‎ (1986)](https://www.douban.com/people/153932994/status/3694021874/)
-- [关注 台湾](https://www.douban.com/people/153932994/status/3692840399/)
-- [看过 门锁‎ (2021)](https://www.douban.com/people/153932994/status/3684269918/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
