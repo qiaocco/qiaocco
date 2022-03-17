@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 军中乐园 軍中樂園‎ (2014)](https://www.douban.com/people/153932994/status/3799030479/)
 - [想看 少年吔，安啦！‎ (1992)](https://www.douban.com/people/153932994/status/3785503294/)
 - [看过 瀑布‎ (2021)](https://www.douban.com/people/153932994/status/3785443663/)
 - [想看 瀑布‎ (2021)](https://www.douban.com/people/153932994/status/3778053408/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [看过 我的少女时代 我的少女時代‎ (2015)](https://www.douban.com/people/153932994/status/3725684377/)
 - [看过 消失的情人节 消失的情人節‎ (2020)](https://www.douban.com/people/153932994/status/3724501735/)
 - [看过 爱情神话‎ (2021)](https://www.douban.com/people/153932994/status/3709019366/)
-- [看过 恋恋风尘 戀戀風塵‎ (1986)](https://www.douban.com/people/153932994/status/3694021874/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
