@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [收藏 社畜买房共进会小组的广播](https://www.douban.com/doulist/150187814/?start=0&sort=time#item1311269971) 到 [豆列 买房](https://www.douban.com/people/153932994/status/3858620107/)
 - [收藏 四食不惑的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1304458677) 到 [豆列 旅游](https://www.douban.com/people/153932994/status/3838295999/)
 - [在看 花甲男孩转大人 花甲男孩轉大人‎ (2017)](https://www.douban.com/people/153932994/status/3818153330/)
 - [想看 国王理查德 King Richard‎ (2021)](https://www.douban.com/people/153932994/status/3813648786/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [看过 无依之地 Nomadland‎ (2020)](https://www.douban.com/people/153932994/status/3810205206/)
 - [想看 热带鱼 熱帶魚‎ (1995)](https://www.douban.com/people/153932994/status/3801454778/)
 - [看过 军中乐园 軍中樂園‎ (2014)](https://www.douban.com/people/153932994/status/3799030479/)
-- [想看 少年吔，安啦！‎ (1992)](https://www.douban.com/people/153932994/status/3785503294/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
