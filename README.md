@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [收藏 旅游成功小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1316814317) 到 [豆列 旅游](https://www.douban.com/people/153932994/status/3874914694/)
 - [关注 高分经典喜剧片榜](https://www.douban.com/people/153932994/status/3869229892/)
 - [想看 搞笑一家人 거침없이 하이킥!‎ (2006)](https://www.douban.com/people/153932994/status/3869229788/)
 - [收藏 社畜买房共进会小组的广播](https://www.douban.com/doulist/150187814/?start=0&sort=time#item1311269971) 到 [豆列 买房](https://www.douban.com/people/153932994/status/3858620107/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 信号 시그널‎ (2016)](https://www.douban.com/people/153932994/status/3810257452/)
 - [看过 真探 第一季 True Detective Season 1‎ (2014)](https://www.douban.com/people/153932994/status/3810217068/)
 - [关注 悬疑片极品](https://www.douban.com/people/153932994/status/3810209036/)
-- [看过 无依之地 Nomadland‎ (2020)](https://www.douban.com/people/153932994/status/3810205206/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
