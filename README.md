@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 心里的声音 마음의 소리‎ (2016)](https://www.douban.com/people/153932994/status/3902373017/)
 - [关注 我的找工作经历](https://www.douban.com/people/153932994/status/3899331346/)
 - [想看 High Kick 短腿的反击 하이킥! 짧은 다리의 역습‎ (2011)](https://www.douban.com/people/153932994/status/3881359252/)
 - [收藏 旅游成功小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1316814317) 到 [豆列 旅游](https://www.douban.com/people/153932994/status/3874914694/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [收藏 四食不惑的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1304458677) 到 [豆列 旅游](https://www.douban.com/people/153932994/status/3838295999/)
 - [在看 花甲男孩转大人 花甲男孩轉大人‎ (2017)](https://www.douban.com/people/153932994/status/3818153330/)
 - [想看 国王理查德 King Richard‎ (2021)](https://www.douban.com/people/153932994/status/3813648786/)
-- [想看 信号 시그널‎ (2016)](https://www.douban.com/people/153932994/status/3810257452/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
