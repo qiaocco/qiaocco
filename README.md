@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想读 人生海海](https://www.douban.com/people/153932994/status/3935971509/)
 - [想看 黎明之前‎ (2010)](https://www.douban.com/people/153932994/status/3922949719/)
 - [想看 海女 あまちゃん‎ (2013)](https://www.douban.com/people/153932994/status/3922347098/)
 - [想看 今生是第一次 이번 생은 처음이라‎ (2017)](https://www.douban.com/people/153932994/status/3908898515/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [收藏 旅游成功小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1316814317) 到 [豆列 旅游](https://www.douban.com/people/153932994/status/3874914694/)
 - [关注 高分经典喜剧片榜](https://www.douban.com/people/153932994/status/3869229892/)
 - [想看 搞笑一家人 거침없이 하이킥!‎ (2006)](https://www.douban.com/people/153932994/status/3869229788/)
-- [收藏 社畜买房共进会小组的广播](https://www.douban.com/doulist/150187814/?start=0&sort=time#item1311269971) 到 [豆列 买房](https://www.douban.com/people/153932994/status/3858620107/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
