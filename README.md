@@ -32,6 +32,8 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 光阴的故事 光陰的故事‎ (2008)](https://www.douban.com/people/153932994/status/3961167838/)
+- [想看 做工的人‎ (2020)](https://www.douban.com/people/153932994/status/3961166890/)
 - [想读 人生海海](https://www.douban.com/people/153932994/status/3935971509/)
 - [想看 黎明之前‎ (2010)](https://www.douban.com/people/153932994/status/3922949719/)
 - [想看 海女 あまちゃん‎ (2013)](https://www.douban.com/people/153932994/status/3922347098/)
@@ -40,8 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [关注 我的找工作经历](https://www.douban.com/people/153932994/status/3899331346/)
 - [想看 High Kick 短腿的反击 하이킥! 짧은 다리의 역습‎ (2011)](https://www.douban.com/people/153932994/status/3881359252/)
 - [收藏 旅游成功小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1316814317) 到 [豆列 旅游](https://www.douban.com/people/153932994/status/3874914694/)
-- [关注 高分经典喜剧片榜](https://www.douban.com/people/153932994/status/3869229892/)
-- [想看 搞笑一家人 거침없이 하이킥!‎ (2006)](https://www.douban.com/people/153932994/status/3869229788/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
