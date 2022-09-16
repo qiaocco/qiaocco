@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 良辰吉时 良辰吉時‎ (2022)](https://www.douban.com/people/153932994/status/3991008462/)
 - [想看 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/153932994/status/3986007350/)
 - [想看 海角七号 海角七號‎ (2008)](https://www.douban.com/people/153932994/status/3970774989/)
 - [想看 光阴的故事 光陰的故事‎ (2008)](https://www.douban.com/people/153932994/status/3961167838/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 海女 あまちゃん‎ (2013)](https://www.douban.com/people/153932994/status/3922347098/)
 - [想看 今生是第一次 이번 생은 처음이라‎ (2017)](https://www.douban.com/people/153932994/status/3908898515/)
 - [想看 心里的声音 마음의 소리‎ (2016)](https://www.douban.com/people/153932994/status/3902373017/)
-- [关注 我的找工作经历](https://www.douban.com/people/153932994/status/3899331346/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
