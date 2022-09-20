@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [收藏 穷游天下丨旅行 · 旅游小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1357218097) 到 [豆列 ](https://www.douban.com/people/153932994/status/3995138400/)
 - [收藏 一起去旅行小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1356204990) 到 [豆列 ](https://www.douban.com/people/153932994/status/3991993411/)
 - [想看 良辰吉时 良辰吉時‎ (2022)](https://www.douban.com/people/153932994/status/3991008462/)
 - [想看 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/153932994/status/3986007350/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想读 人生海海](https://www.douban.com/people/153932994/status/3935971509/)
 - [想看 黎明之前‎ (2010)](https://www.douban.com/people/153932994/status/3922949719/)
 - [想看 海女 あまちゃん‎ (2013)](https://www.douban.com/people/153932994/status/3922347098/)
-- [想看 今生是第一次 이번 생은 처음이라‎ (2017)](https://www.douban.com/people/153932994/status/3908898515/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
