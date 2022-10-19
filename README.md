@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [收藏 上海租房小组的广播](https://www.douban.com/doulist/146201674/?start=0&sort=time#item1365782648) 到 [豆列 ](https://www.douban.com/people/153932994/status/4022884021/)
 - [想看 覆流年‎ (2022)](https://www.douban.com/people/153932994/status/4018892222/)
 - [想看 大力女子都奉顺 힘쎈여자 도봉순‎ (2017)](https://www.douban.com/people/153932994/status/4018891492/)
 - [想看 在京都小住 ちょこっと京都に住んでみた。‎ (2019)](https://www.douban.com/people/153932994/status/4005628339/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [收藏 一起去旅行小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1356204990) 到 [豆列 ](https://www.douban.com/people/153932994/status/3991993411/)
 - [想看 良辰吉时 良辰吉時‎ (2022)](https://www.douban.com/people/153932994/status/3991008462/)
 - [想看 胜者即是正义 リーガル・ハイ‎ (2012)](https://www.douban.com/people/153932994/status/3986007350/)
-- [想看 海角七号 海角七號‎ (2008)](https://www.douban.com/people/153932994/status/3970774989/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
