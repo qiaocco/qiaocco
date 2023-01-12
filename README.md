@@ -32,6 +32,7 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 **✨ 豆瓣**
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 浅草小子 浅草キッド‎ (2021)](https://www.douban.com/people/153932994/status/4108651426/)
 - [想看 1899‎ (2022)](https://www.douban.com/people/153932994/status/4052278843/)
 - [收藏 上海租房小组的广播]() 到 [豆列 ](https://www.douban.com/people/153932994/status/4026439228/)
 - [收藏 上海租房小组的广播]() 到 [豆列 ](https://www.douban.com/people/153932994/status/4022884021/)
@@ -41,7 +42,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 一一‎ (2000)](https://www.douban.com/people/153932994/status/4003550974/)
 - [收藏 穷游天下丨旅行 · 旅游小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1359445147) 到 [豆列 ](https://www.douban.com/people/153932994/status/4001927798/)
 - [收藏 穷游天下丨旅行 · 旅游小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1357218097) 到 [豆列 ](https://www.douban.com/people/153932994/status/3995138400/)
-- [收藏 一起去旅行小组的广播](https://www.douban.com/doulist/149896282/?start=0&sort=time#item1356204990) 到 [豆列 ](https://www.douban.com/people/153932994/status/3991993411/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
