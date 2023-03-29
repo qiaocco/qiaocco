@@ -39,7 +39,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 - [想看 覆流年‎ (2022)](https://www.douban.com/people/153932994/status/4018892222/)
 - [想看 大力女子都奉顺 힘쎈여자 도봉순‎ (2017)](https://www.douban.com/people/153932994/status/4018891492/)
 - [想看 在京都小住 ちょこっと京都に住んでみた。‎ (2019)](https://www.douban.com/people/153932994/status/4005628339/)
-- [想看 一一‎ (2000)](https://www.douban.com/people/153932994/status/4003550974/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
