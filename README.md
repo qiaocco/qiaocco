@@ -33,7 +33,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 
 <!-- DOUBAN-ACTIVITIES:START -->
 - [想看 浅草小子 浅草キッド‎ (2021)](https://www.douban.com/people/153932994/status/4108651426/)
-- [想看 1899‎ (2022)](https://www.douban.com/people/153932994/status/4052278843/)
 <!-- DOUBAN-ACTIVITIES:END -->
 
 <p align="left">
