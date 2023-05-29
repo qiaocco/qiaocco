@@ -33,7 +33,6 @@ More on <a href="https://blog.qiaocco.com" target="blank">blog.qiaocco.com</a>
 
 <!-- DOUBAN-ACTIVITIES:START -->
 - [收藏 上海租房小组的广播](https://www.douban.com/doulist/146201674/?start=0&sort=time#item1431520755) 到 [豆列 ](https://www.douban.com/people/153932994/status/4251073955/)
-- [收藏 上海租房小组的广播](https://www.douban.com/doulist/146201674/?start=0&sort=time#item1430104671) 到 [豆列 ](https://www.douban.com/people/153932994/status/4246283774/)
 - [收藏 上海租房小组的广播](https://www.douban.com/doulist/146201674/?start=0&sort=time#item1428786433) 到 [豆列 ](https://www.douban.com/people/153932994/status/4241624465/)
 - [想看 浅草小子 浅草キッド‎ (2021)](https://www.douban.com/people/153932994/status/4108651426/)
 <!-- DOUBAN-ACTIVITIES:END -->
